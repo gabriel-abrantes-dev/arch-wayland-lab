@@ -51,4 +51,4 @@ LEARNING.md     mapa da trilha + exercícios
 - **Um assunto por arquivo** — monitores, input, binds, etc. separados.
 - **Comentário = aprendizado** — cada opção importante tem uma linha de contexto.
 - **Repo ≠ home cega** — você decide quando linkar; o lab não sobrescreve sem backup.
-- **Pacotes explícitos** — a stack está em `packages/pacman.txt`.
+- **Pacotes explícitos** — a stack mínima está em `packages/pacman.txt`; o snapshot completo do sistema em `packages/pacotes.txt`.
