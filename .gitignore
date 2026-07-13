@@ -1,0 +1,8 @@
+# Editor / OS
+*.swp
+*~
+.DS_Store
+
+# Backups locais acidentais
+*.bak
+.arch-wayland-lab-backup-*

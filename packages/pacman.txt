@@ -1,0 +1,19 @@
+# Pacotes da stack Arch + Wayland (Hyprland)
+# Instalar: sudo pacman -S --needed - < packages/pacman.txt
+# (ou um a um enquanto estuda)
+
+hyprland
+xdg-desktop-portal-hyprland
+xdg-desktop-portal
+waybar
+kitty
+wofi
+hyprpaper
+nemo
+pipewire
+wireplumber
+pipewire-pulse
+playerctl
+blueman
+brightnessctl
+firefox
